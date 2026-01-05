@@ -2,10 +2,6 @@
 
 
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=btfitti&show_icons=true&theme=shades-of-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btfitti&layout=donut-vertical&theme=shades-of-purple&langs_count=8)](https://github.com/btfitti/github-readme-stats)
-
 # ⚙️ Tech Stack
 <div style="display: inline_block">
     <img alt="html5" align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
